@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working in **Silicon Labs (Embedded Software Developer Intern)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning about ** Sequence Modesl**
 
-- 👯 I’m looking to collaborate on **Web Dev Projects**
+- 👯 I’m looking to collaborate on **Deep Learning based Projects**
 
 - 💬 Ask me about **Robotics**
 
