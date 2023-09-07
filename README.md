@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">I am Pre-final Year Undergrad in the Department of  <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at  <a href="https://iith.ac.in/">IIT Hyderabad</a>  .I am interested in Signal Processing, Deep Learning ,Robotics and Embedded Systems</h3>
+<h3 align="center">I am Pre-final Year Undergrad in the Department of  <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at  <a href="https://iith.ac.in/">IIT Hyderabad</a>  .I am interested in S Deep Learning ,Robotics and Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvrn&label=Profile%20views&color=0e75b6&style=flat" alt="atharvrn" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Silicon Labs (Embedded Software Developer Intern)**
 
-- 🌱 I’m currently learning about ** Sequence Modesl**
+- 🌱 I’m currently learning about ** Transformers**
 
 - 👯 I’m looking to collaborate on **Deep Learning based Projects**
 
