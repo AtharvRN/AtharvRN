@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvrn" alt="atharvrn" /></a> </p> -->
 
-- 🔭 I used to intern in **Silicon Labs**
+- 🔭 I used to intern at **Silicon Labs**
 
 - 🌱 I’m currently learning about ** Vision Transformers**
 
