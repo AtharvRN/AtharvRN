@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I like to play Field Hockey**
 
-- Academic [Resume](https://github.com/AtharvRN/cv/blob/main/Resume-1.pdf)
+-  [1 Page Resume](https://drive.google.com/file/d/1MnFkuDs_pFGTqkGNsbv48XjzyvP3q1xQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
