@@ -4,20 +4,20 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvrn" alt="atharvrn" /></a> </p> -->
 
-- 🔭 I used to intern at **Silicon Labs**
+- 🔭 I used to intern at **Silicon Labs (Embedded Systems)**
 
-- 🌱 I’m currently learning about ** Vision Transformers**
+- 🌱 I’m currently learning about **Speaker Recognition Systems**
 
-- 👯 I’m looking to collaborate on **Deep Learning based Projects**
+- 👯 I’m looking to collaborate on **Deep Learning based projects**
 
-- 💬 Ask me about **Robotics**
+- 💬 Ask me about **Deep Learning/Robotics/Embedded Systems**
 
 - 📫 How to reach me **atharv.ramesh2003@gmail.com**
 
 - ⚡ Fun fact **I like to play Field Hockey**
 
--  [1 Page Resume](https://drive.google.com/file/d/1MnFkuDs_pFGTqkGNsbv48XjzyvP3q1xQ/view?usp=sharing)
-
+-  [Academic CV](https://drive.google.com/file/d/1BHUiWEQkmRW5Gdb8p7APbkH5ynYfjkn5/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atharv-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-ramesh" height="30" width="40" /></a>
