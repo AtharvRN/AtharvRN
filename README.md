@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">I am Final Year Undergrad in the Department of  <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at  <a href="https://iith.ac.in/">IIT Hyderabad</a>  .I am interested in Deep Learning ,Robotics and Embedded Systems</h3>
+<h3 align="center">I am Final Year Undergrad in the Department of  <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at  <a href="https://iith.ac.in/">IIT Hyderabad</a>  .I am interested in Deep-Learning. I am new to the field and am currently exploring Self-Supervised Learning in Images. I am also interested in Natural Language Processing -Specifically - RAG, Vector Databases. Feel free to reach out to me if you have an interesting project idea or want to work with me</h3>
+
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvrn" alt="atharvrn" /></a> </p> -->
