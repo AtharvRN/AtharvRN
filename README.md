@@ -4,11 +4,12 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvrn" alt="atharvrn" /></a> </p> -->
 
-- 🔭 I used to intern at **Silicon Labs (Embedded Systems)**
+<!--- 🔭 I used to intern at **Silicon Labs (Embedded Systems)**
+-->
 
-- 🌱 I’m currently learning about **Speaker Recognition Systems**
+- 🌱 I’m currently learning about **Retrieval Augmented Generations and Vector Databases**
 
-- 👯 I’m looking to collaborate on **Deep Learning based projects**
+- 👯 I’m looking to collaborate on **Deep Learning based research projects**
 
 - 💬 Ask me about **Deep Learning/Robotics/Embedded Systems**
 
