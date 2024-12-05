@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I like to play Field Hockey**
 
--  [Academic CV](https://drive.google.com/file/d/1BHUiWEQkmRW5Gdb8p7APbkH5ynYfjkn5/view?usp=sharing)
+-  [Academic CV](https://github.com/AtharvRN/AtharvRamesh.github.io/blob/master/Atharv_academic_CV.pdf)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
