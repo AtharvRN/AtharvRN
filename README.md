@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">I am Final Year Undergrad in the Department of  <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at  <a href="https://iith.ac.in/">IIT Hyderabad</a>  .I am interested in Deep-Learning. I am new to the field and am currently exploring Self-Supervised Learning in Images. I am also interested in Natural Language Processing -Specifically - RAG, Vector Databases. Feel free to reach out to me if you have an interesting project idea or want to work with me</h3>
+<h3 align="center">I graduated from the <a href="https://iith.ac.in/">IIT Hyderabad</a> in 2024 with a Bachelor in Technology in <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at   .I am interested in Computer Vision - especially in Biomedical AI and Self Supervised Learning. I am currently an Associate AI Engineer in Netradyne. I started working June 2024. I work with the Device Analytics team. We work on ADAS, Driver Monitoring and much more. I work closely with Python/C++, Makefiles, Cross-Compilers etc. I am currently working on a project which involves using the Qualcomm’s [fastcv](https://www.qualcomm.com/developer/software/qualcomm-fastcv-sdk) library on their Hexagon DSP.</h3>
 
 
 
