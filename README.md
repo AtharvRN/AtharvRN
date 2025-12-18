@@ -1,66 +1,40 @@
-<h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">I graduated from the <a href="https://iith.ac.in/">IIT Hyderabad</a> in 2024 with a Bachelor in Technology in <a href="https://ee.iith.ac.in//">Electrical Engineering</a>  at   .I am interested in Computer Vision - especially in Biomedical AI and Self Supervised Learning. I am currently an Associate AI Engineer in Netradyne. I started working June 2024. I work with the Device Analytics team. We work on ADAS, Driver Monitoring and much more. I work closely with Python/C++, Makefiles, Cross-Compilers etc. I am currently working on a project which involves using the Qualcomm’s [fastcv](https://www.qualcomm.com/developer/software/qualcomm-fastcv-sdk) library on their Hexagon DSP.</h3>
+<h1 align="center">Hi, I’m Atharv Ramesh Nair</h1>
+<h3 align="center">
+M.S MLDS @ UC San Diego<br>
+</h3>
+
+---
+
+### 👋 About Me
+- 🎓 **M.S. in Electrical & Computer Engineering (MLDS track)** at **UC San Diego**
+- 🎓 **B.Tech in Electrical Engineering** from **IIT Hyderabad**
+- 🔬 Research interests:  
+  **Computer Vision**, **Biomedical AI**, **Reinforcement Learning and Post-training**,  
 
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvrn" alt="atharvrn" /></a> </p> -->
+### 🛠 Technical Focus
+**Machine Learning & Research**
+- PyTorch, probabilistic modeling, EM / Bayesian methods
+- Reinforcement Learning (policy gradients, reward design)
+- Computer Vision (CNNs, ViTs, self-supervised learning)
 
-<!--- 🔭 I used to intern at **Silicon Labs (Embedded Systems)**
--->
+**Systems & Engineering**
+- Python, C++, Linux
+- Data pipelines, experiment reproducibility
+- Comfortable bridging theory ↔ implementation
 
-- 🌱 I’m currently learning about **Retrieval Augmented Generations and Vector Databases**
+---
 
-- 👯 I’m looking to collaborate on **Deep Learning based research projects**
+### 📄 Academic & Links
+- 🌐 **Personal Website**: https://atharvrn.github.io/AtharvRamesh.github.io  
+- 📄 **Academic CV**:  
+  https://github.com/AtharvRN/AtharvRamesh.github.io/blob/master/Atharv_academic_CV.pdf  
+- 💼 **LinkedIn**: https://linkedin.com/in/atharv-ramesh
 
-- 💬 Ask me about **Deep Learning/Robotics/Embedded Systems**
+---
 
-- 📫 How to reach me **atharv.ramesh2003@gmail.com**
-
-- ⚡ Fun fact **I like to play Field Hockey**
-
--  [Academic CV](https://github.com/AtharvRN/AtharvRamesh.github.io/blob/master/Atharv_academic_CV.pdf)
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atharv-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-ramesh" height="30" width="40" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvrn&show_icons=true&hide_border=true" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<h4 align="left">Expert:</h4>
-<p align="left">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-            <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
-<h4 align="left">Intermediate:</h4>
-<p align="left">
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-
-</p>
-
-<h4 align="left">Beginner:</h4>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvrn&show_icons=true&locale=en&layout=compact" alt="atharvrn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvrn&show_icons=true&locale=en" alt="atharvrn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvrn&" alt="atharvrn" /></p>
-
