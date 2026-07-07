@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Atharv </h1>
 <p align="center">
-  Masters @ UC San Diego<br/>
+  Grad Student @ UC San Diego<br/>
   Researcher @ Trustworthy Machine Learning Lab (advised by Prof. Lily Weng)
 </p>
 
