@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Atharv </h1>
 <p align="center">
-  M.S. (ECE, MLDS track) @ UC San Diego<br/>
+  Masters @ UC San Diego<br/>
   Researcher @ Trustworthy Machine Learning Lab (advised by Prof. Lily Weng)
 </p>
 
@@ -9,8 +9,8 @@
 ## About Me
 - Graduate student in Electrical and Computer Engineering (MLDS track) at [UC San Diego](https://ece.ucsd.edu/).
 - Researcher in the [Trustworthy Machine Learning Lab](https://lilywenglab.github.io/) (advised by [Prof. Lily Weng](https://lilywenglab.github.io/)).
-- Current work: interpretability for deep learning models in medical imaging.
-- Interests: AI safety, reinforcement learning, LLM post-training, efficient inference.
+- Current work: Agentic interpretability for deep learning models 
+- Interests: AI safety, Speculative Decoding, Video Diffusion Models.
 - Actively seeking MLE/Research internships (Summer 2026+).
 - My Website - https://atharvrn.github.io/AtharvRamesh.github.io
 
